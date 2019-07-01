@@ -1,0 +1,1 @@
+int sum = IntStream.of(a).sum();

@@ -1,0 +1,1 @@
+List<Character> chars = probe_string.chars().mapToObj(e->(char)e).collect(Collectors.toList());

@@ -1,0 +1,1 @@
+ String []array=new String[picture.length+2];

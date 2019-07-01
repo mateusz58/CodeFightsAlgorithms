@@ -1,0 +1,1 @@
+ String repeated = new String(new char[picture[0].length()+2]).replace("\0", "*");

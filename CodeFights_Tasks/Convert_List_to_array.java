@@ -1,0 +1,1 @@
+String[] strings = list.stream().toArray(String[]::new);
